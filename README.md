@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/totakiki/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=totakiki&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=totakiki&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/totakiki/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totakiki&langs_count=3&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totakiki&langs_count=3" />
 </a>  
 <img align="left" src="https://komarev.com/ghpvc/?username=totakiki&color=brightgreen" />
 <!--
