@@ -4,9 +4,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=totakiki&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/totakiki/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiharaten&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totakiki&langs_count=3" />
 </a>  
-<img align="left" src="https://komarev.com/ghpvc/?username=totakiki&color=brightgreen" />
+<img align="left" src="https://komarev.com/ghpvc/?username=totakiki&color=pink" />
 <!--
 **totakiki/totakiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
